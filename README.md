@@ -15,7 +15,7 @@
 - 🌱 Learning Full Stack Development with Spring Boot & React  
 - ⚡ Fun fact: I love automating things and building efficient solutions  
 - 🧠 Interested in real-world problem solving with code  
-- 📬 Reach me at: *your-email@example.com* *(replace this)*
+- 📬 Reach me at: jesudenison470@gamil.com
 
 ---
 
@@ -71,13 +71,13 @@ A machine learning model to detect and filter SMS messages as **spam** or **not 
 ### 🏅 Certifications
 
 - ✅ Java Full Stack with Spring Boot and React (JWT, Redux, Router)
-
+- 🔗 https://www.udemy.com/certificate/UC-ecf7b45f-9452-42cb-b6da-445d900c8075/
 ---
 
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-  
+- 🔗 https://www.linkedin.com/in/jesudenison24/  
 ---
 
 ### 💡 Favorite Quote
