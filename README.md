@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesu Denison K 🪽</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | Tech Explorer | ML & IoT Enthusiast</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | Tech Explorer | ML & IoT </h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
@@ -59,7 +59,7 @@ A powerful spam filtering system built using Python and ML models like Naive Bay
 
 ### 📫 Contact Me
 
-- 📧 Email: jesudenison470@example.com
+- 📧 Email: jesudenison470@gmail.com
 - 💼 LinkedIn: [View Profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 ---
