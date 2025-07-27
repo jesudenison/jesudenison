@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8B0000?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8B0000?style=flat-square&logo=c++&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
@@ -65,7 +65,6 @@ A machine learning model to detect and filter SMS messages as **spam** or **not 
 
 ### 🎯 Currently Learning
 
-- 🔷 React.js, Spring Boot
 - 🔷 Advanced ML & AI model deployment
 - 🔷 IoT Automation and Arduino integration
 
@@ -73,8 +72,14 @@ A machine learning model to detect and filter SMS messages as **spam** or **not 
 
 ### 🏅 Certifications
 
-- ✅ Java Full Stack with Spring Boot and React (JWT, Redux, Router)
-- 🔗 https://www.udemy.com/certificate/UC-ecf7b45f-9452-42cb-b6da-445d900c8075/
+- ✅ Professional Certificate in SMM Social Media Marketing 
+- 🔗 https://www.udemy.com/certificate/UC-4cfad084-4938-4213-9f10-b4fa2255242b/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
+- ✅ Diploma in Computer Application
+- 🔗 https://drive.google.com/file/d/1AW1EFZrnHZ3coxJDmlSpbxaCQeIvevo0/view?usp=drive_link
+- ✅ C Language
+- 🔗 https://drive.google.com/file/d/1DZAqsK94e7UpuFAPVO0CSmxNmYt2UCji/view?usp=drive_link
+- ✅ C++ Language
+- 🔗 https://drive.google.com/file/d/1XTECRAFgRouO_S7hzmvoWEcCzS2GpYk_/view?usp=sharing
 ---
 
 ### 🔗 Connect With Me
