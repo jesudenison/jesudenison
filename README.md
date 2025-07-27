@@ -35,6 +35,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-Digital-Marketing&logoColor=white)
+
 
 ---
 
